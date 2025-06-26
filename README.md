@@ -1,4 +1,4 @@
-# 🛒 React Shopping App
+7# 🛒 React Shopping App
 
 A simple and responsive Single Page Application (SPA) built using **React**, **Vite v6**, **Tailwind CSS**, and **React Router DOM**. The app demonstrates modern frontend best practices, including routing, reusable components, and responsive UI.
 
@@ -62,16 +62,15 @@ npm run dev
 /feedback — Final thank you message
 
 ```
-##📦 Build
-###To create a production-ready build:
+📦 Build
+To create a production-ready build:
 
 
 npm run build
 
-
-###To preview the build locally:
+To preview the build locally:
 
 npm run preview
 
-##🧑‍💻 Author
-##Jay Patwal
+🧑‍💻 Author
+Jay Patwal
