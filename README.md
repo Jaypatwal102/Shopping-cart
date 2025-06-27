@@ -2,6 +2,8 @@
 
 A simple and responsive Single Page Application (SPA) built using **React**, **Vite v6**, **Tailwind CSS**, and **React Router DOM**. The app demonstrates modern frontend best practices, including routing, reusable components, and responsive UI.
 
+
+🔗 **Live Demo**: [shopping-cart-xcok-mu.vercel.app](https://shopping-cart-xcok-mu.vercel.app)
 ---
 
 ## 🚀 Features
@@ -29,11 +31,11 @@ A simple and responsive Single Page Application (SPA) built using **React**, **V
 ## 📁 Project Structure
 
 📦 src/
-┣ 📂components/ # All reusable UI components
-┣ 📜App.jsx # Main entry component with router config
-┣ 📜main.jsx # React root and Vite mount
-┣ 📜index.css # Tailwind imports
-┗ 📜...other files
+ ┣ 📂components/        # All reusable UI components (e.g., Navbar, Intro, Projects)
+ ┣ 📜App.jsx            # Main entry component, includes all sections or router config
+ ┣ 📜main.jsx           # React root setup and Vite app mount point
+ ┣ 📜index.css          # Tailwind CSS imports and global styles
+ ┗ 📜...other files     # Additional utilities, data files, or config (e.g., assets, hooks)
 
 
 ---
@@ -64,5 +66,10 @@ npm run dev
 ```
 
 
-🧑‍💻 Author
+👨‍💻 Author
 Jay Patwal
+MCA @ NIT Agartala
+Passionate about building real-world React and backend applications.
+
+
+
