@@ -29,7 +29,7 @@ A simple and responsive Single Page Application (SPA) built using **React**, **V
 ---
 
 ## 📁 Project Structure
-
+```
 📦 src/
  ┣ 📂components/        
  ┃ ┣ 📜AppLayout.jsx     ─ Wrapper layout for consistent page structure
@@ -42,7 +42,7 @@ A simple and responsive Single Page Application (SPA) built using **React**, **V
  ┣ 📜index.css           ─ Tailwind CSS imports and global styles
 ┗ 📜...other files       ─ Additional utilities, data files, or config (e.g., assets, hooks)
 
-
+```
 
 ---
 
