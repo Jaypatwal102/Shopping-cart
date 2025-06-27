@@ -67,13 +67,13 @@ npm run dev
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home Page](public/screenshot(1).png)
+![Home Page](public/Screenshot (1).png)
 
 ### 🛒 Cart Page
-![Cart Page](public/screenshot(2).png)
+![Cart Page](public/Screenshot (2).png)
 
 ### 💳 Checkout Page
-![Checkout Page](public/screenshot(3).png)
+![Checkout Page](public/Screenshot (3).png)
 
 👨‍💻 Author
 Jay Patwal
