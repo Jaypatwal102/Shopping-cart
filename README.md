@@ -53,7 +53,7 @@ npm install
 npm run dev
 
 🔗 Pages
-/ — Product list + search
+/ — AppLayout - Search + Product list
 
 /cart — Cart page with quantity controls
 
@@ -62,15 +62,7 @@ npm run dev
 /feedback — Final thank you message
 
 ```
-📦 Build
-To create a production-ready build:
 
-
-npm run build
-
-To preview the build locally:
-
-npm run preview
 
 🧑‍💻 Author
 Jay Patwal
