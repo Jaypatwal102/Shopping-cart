@@ -31,11 +31,17 @@ A simple and responsive Single Page Application (SPA) built using **React**, **V
 ## 📁 Project Structure
 
 📦 src/
- ┣ 📂components/        # All reusable UI components (e.g., Navbar, Intro, Projects)
- ┣ 📜App.jsx            # Main entry component, includes all sections or router config
- ┣ 📜main.jsx           # React root setup and Vite app mount point
- ┣ 📜index.css          # Tailwind CSS imports and global styles
- ┗ 📜...other files     # Additional utilities, data files, or config (e.g., assets, hooks)
+ ┣ 📂components/        
+ ┃ ┣ 📜AppLayout.jsx     ─ Wrapper layout for consistent page structure
+ ┃ ┣ 📜Cart.jsx          ─ Displays items added to cart
+ ┃ ┣ 📜Catalog.jsx       ─ Shows product listings
+ ┃ ┣ 📜Checkout.jsk      ─ checkout
+ ┃ ┗ 📜Feedback.jsx      ─ display message to thanks customer
+ ┣ 📜App.jsx             ─ Main entry component, includes all sections or router config
+ ┣ 📜main.jsx            ─ React root setup and Vite app mount point
+ ┣ 📜index.css           ─ Tailwind CSS imports and global styles
+┗ 📜...other files       ─ Additional utilities, data files, or config (e.g., assets, hooks)
+
 
 
 ---
