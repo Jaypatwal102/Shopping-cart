@@ -64,7 +64,16 @@ npm run dev
 /feedback — Final thank you message
 
 ```
+## 🖼️ Screenshots
 
+### 🏠 Home Page
+![Home Page](public/screenshot(1).png)
+
+### 🛒 Cart Page
+![Cart Page](public/screenshot(2).png)
+
+### 💳 Checkout Page
+![Checkout Page](public/screenshot(3).png)
 
 👨‍💻 Author
 Jay Patwal
